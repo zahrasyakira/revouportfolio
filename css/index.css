@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script:wght@700&family=Darumadrop+One&family=Galada&family=Noto+Serif&family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+.jumbotron {
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.display-4 {
+  font-size: calc(1.475rem + 2.7vw);
+  font-weight: 300;
+  line-height: 1.2;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: lighter;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+legend {
+  text-align: left;
+  font-weight: bold;
+}
+
+div.mb-3 {
+  text-align: left;
+  font-weight: bold;
+}
+
+section#package {
+  text-align: center;
+  background-color: lightgray;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+section#call {
+  text-align: center;
+}
+
+.navbar-brand {
+  font-family: "Galada", cursive;
+}
+
+form {
+  background-color: lightgrey;
+}
+
+.form-label {
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+
+fieldset {
+  min-width: 0;
+  padding: 20px;
+
+  margin-bottom: 20px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 20px;
+}
+
+section#space {
+  padding: 15px;
+  margin: 15px;
+  font-weight: bold;
+}
+
+section#numbering {
+  padding: 15px;
+  margin: 15px;
+}
+
+section#opsi {
+  padding: 15px;
+  margin: 15px;
+}
+
+div.col-3 {
+  font-weight: bold;
+}
+
+section#call {
+  padding: 30px;
+  margin: 30px;
+}
+
+div.footer {
+  padding: 30px;
+}
